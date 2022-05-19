@@ -1,4 +1,4 @@
-### Olá, sou desenvolvedor front-end em varias linguagens🐱‍👤✔
+### Olá, sou desenvolvedor front-end em várias linguagens🐱‍👤✔
 <div>
   <a href="https://github.com/keslleyMartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keslleyMartins&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
